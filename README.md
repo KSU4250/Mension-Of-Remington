@@ -2,6 +2,8 @@
 >  VR 방탈출 게임
 
 ---
+![Image](https://github.com/user-attachments/assets/bb324155-179c-4405-824a-d9537ee8e821)
+
 ## 게임 소개
 
 - *게임 장르*  : VR 방탈출
