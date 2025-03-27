@@ -12,7 +12,7 @@
 
 
 ## 게임 영상
-
+https://youtu.be/V9PjnB4GKfs
 
 
 ## 기타 자료
